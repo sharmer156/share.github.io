@@ -1,0 +1,1256 @@
+
+28 | LIGHTING FOR HOSPITALITY AND ENTERTAINMENT 
+A room is like a stage. If you see it without lighting, it can be the coldest place in the world. 
+Paul Lynde, 20th Century American Actor 
+
+L
+ighting in most any application is as much about the aesthetic as it is about the analytic. In hospitality and entertainment facilities, the aesthetic is the priority. Although consequences of analytic failure are great, the aesthetics of lighting equipment and lighting effects should remain at the forefront. This chapter outlines lighting criteria for casinos, exhibition halls, fitness centers, hotels, restaurants, spas, and theaters. Electric lighting accounts for about 36% of the electricity used in the food service and lodging industries (see Figure 28.1) [1]. Efficient lighting and its careful application are, therefore, critically important. What follows is a discussion of the key aspects affecting lighting: project status; space types; activities; application-specific design goals, and illuminance criteria in hospitality and entertainment facilities. 
+For complete design efforts, there must be significant reliance on and reference to material in 12 | COMPONENTS OF LIGHTING DESIGN, 13 | LIGHT SOURCES: APPLICATION CONSIDERATIONS, 14 | DESIGNING DAYLIGHTING and 15 | DESIGNING ELECTRIC LIGHTING. The designer should have a thorough understanding of the design tenets outlined in those chapters, must identify those deemed appropriate and develop lighting goals and strategies accordingly. This chapter primarily addresses illuminance specifics related to hospitality and entertainment facilities which should influence luminaire optical selections, lampings, and final layouts based on previously developed thought-starters (see 15.2 A Lighting Scheme). Use of the material in this chapter to the exclusion of material in Chapters 12, 13, 14, and 15 will likely lead to unsatisfactory results. Previous and current IES related documents serve as archival and reference sources [2] [3]. 
+Deliberate thought must be applied to the lighting problem and solution. For example, for the informal meeting area in a hotel business center, illuminance criteria are based on common social activity and viewing of large or high-contrast tasks. Average-to-minimum (avg:min) uniformity is 2-to-1 (2:1) and the illuminance is intended to be average over the designated informal meeting room or area. Although the vertical illuminance criteria, intended for application at seated face height, might be accomplished with two over-scaled 2¡¯¡Á4¡¯ ceiling recessed luminaires, that solution would make for an awkward and sterile institutional setting, let alone a viable hospitality setting. Here, a series of narrow, discrete, linear ceiling recessed luminaires and an art accent for a modern design or a decorative, yet efficient and functional pendant luminaire plus some art accents or sconces or wallwash-ing of one or two walls for a traditional design are worthy. Such aesthetic integration with the space type and functions can contribute, in part, to increased use, repeat business, and ultimately more revenue. Specific details like these are not enumerated for applications and tasks. Table 28.1 offers a checklist of IES lighting topics and criteria. The design team is responsible for determining and addressing indoor and outdoor lighting and energy criteria set forth by authorities having jurisdiction (AHJ) which may be different from and supersede IES criteria. See also 25 | LIGHTING FOR EMERGENCY, SAFETY, AND SECURITY. 
+Contents  
+28.1 Project Type and Status.  .  . 28.2  
+28.2 Application Types .  .  .  .  . 28.2  
+28.3 Illuminance Criteria .  .  .  .28.28  
+28.4 Designing.  .  .  .  .  .  .  .28.32  
+28.5 References  .  .  .  .  .  .  .28.33  
+
+Space Heating 5% 
+
+
+Figure 28.1 | Electricity Use of Food Service and Lodging Buildings 
+Based on 2003 data from the US DOE¡¯s Energy Information Administration, lighting accounts for 36% of electricity use in food service and lodging buildings (electricity use for Office Equipment rounds to 0%). These buildings themselves account for 13% of electricity use by all commercial and institutional buildings. 
+IES 10th Edition 
+
+
+The Lighting Handbook | 28.1
+
+
+
+Accenting 
+
+15.1.1.3 Accent Lighting Table 12.2 | Subjective Impressions Table 15.2 | Accent Illuminance Ratios Table 22.2 | Common Applications Illuminance Recommendations Appearance 12.2 Spatial Factors Color 
+12.5.6 Color Considerations 
+
+Controls 16 | LIGHTING CONTROLS Daylighting 14 | DESIGNING DAYLIGHTING Electric Lighting 15 | DESIGNING ELECTRIC LIGHTING Flicker 
+4.6 Flicker and Temporal Contrast Sensitivity 
+
+Glare 4.10.1 Discomfort Glare 4.10.2 Disability Glare Illuminance 
+This Chapter: Table 28.2 
+12.5.5.1 Applications and Tasks Table 12.6 | Default Illuminance Ratio 
+Recommendations Figure 12.22 | Task Coverage Example 
+
+Light Distribution 12.3.2 Subjective Impressions Luminances 12.5.2 Luminance Table 12.5 | Default Luminance Ratio Recommendations 
+
+Maintenance 15.4.4 Installation and Maintenance Nighttime Outdoor Environment Table 15.6 | Nighttime Operational Strategies for Improved Outdoor Environmental Regard Systems Integration 12.6 Systems Factors Veiling Reflections This Chapter: Section 28.3.6 12.5.4 Veiling Reflections 
+Visual Tasks 
+This Chapter: Section 28.2 
+This Chapter: Table 28.2 
+Table 11.2 | Programming: Inventory Scope and Specific Examples 
+12.5.1 Visual Tasks Table 12.3 | Sample Visual Task Survey 
+28.2 | The Lighting Handbook 
+28.1 Project Type and Status 
+An understanding of the project type and scope is necessary before commencing design work. This will establish the extent to which daylighting can address the lighting goals. New, renovation, and restoration projects each offer varying opportunities. See 11.2 Planning, 
+11.3.1 Pre-design, and 11.3.2 Schematic Design. At every opportunity the lighting designer should give every consideration to daylighting as a light source. For some applications and tasks, daylighting can be the primary light source. Critically, this means addressing the host of lighting design factors identified in 12 | COMPONENTS OF LIGHTING DESIGN. Daylight demands attention to moderate or eliminate glare and balance visible and thermal energy. 
+28.2 Application Types 
+To develop lighting solutions that meet quality, quantity, and operational criteria, an in-ventory is made of the hospitality and entertainment space types under consideration and the anticipated occupants, functions, and tasks (see Table 11.2 | Programming: Inventory Scope and Specific Examples and Table 12.3 | Sample Visual Task Survey). Otherwise, lighting cannot be best targeted to the users, their expectations, functions and tasks. 
+Space type definitions are required early in the project design in order to track design efforts that include inventorying the project knowns, anticipated functions, and tasks and calculat-ing lighting, power, and energy compliance. Room names, from which functions can be deduced, and numbers for tracking should be clearly marked on architectural backgrounds. The applications and tasks cited in Table 28.2 | Hospitality and Entertainment Facilities Il-luminance Recommendations should be reviewed against the project knowns and correlated with the named space types and functions to establish recommended illuminance criteria. Seek clarification with the client where discrepancies occur between programming informa-
+tion, the list of room names, and the available application and task citations in Table 28.2. 
+The following discussion is keyed to major application headings in Table 28.2. Couple this with topics in Table 28.1 for comprehensive qualitative and quantitative criteria. 
+28.2.1 Accenting 
+Accenting affects people¡¯s brightness perceptions and provides visual relief. Accenting is also used for visual attraction and wayfinding. Default accent lighting criteria are discussed in 22 | LIGHTING FOR COMMON APPLICATIONS. Also see 15.1.1.3 Accent Lighting. 
+Unlike many other applications, hospitality and entertainment facilities may be heavily signed. Signage can be internally illuminated, accented, or lighted by the general light in a space or area. The amount of signage, the hieararchies and priorities of if and how signage is illuminated, and placement, size, and inherent contrast must be part of the programming. Coordination with signage or graphics consultants and other team members is necessary. 
+28.2.2 Administration 
+Lighting for administrative areas is discussed in 22 | LIGHTING FOR COMMON APPLICATIONS. The architectural scheme and even task specifics will vary based on the associated hospitality or entertainment facility and clientele. These details should affect the lighting design, from the kinds of lighting effects to lighting equipment styling to lumi-nances and illuminances. 
+The administrative areas are typically consolidated in a hospitality or entertainment facility or campus into a single area, wing, or building. Several aspects may affect the degree to which the lighting design in the administrative area is sympathetic to or different from that of the other applications and tasks at the hospitality or entertainment facility in question: 
+IES 10th Edition 
+
+
+
+
+. 
+Client wishes and architectural desires 
+
+. 
+Degree to which clientele or business prospects visit administrative operations 
+
+. 
+View between administrative areas and hospitality or entertainment areas 
+
+. 
+Management style and immersion in hospitality or entertainment functions 
+
+
+28.2.3 Ballrooms 
+
+Ballrooms are typified by their size and flexibility in use. Ballrooms are typically configurable from one very large space to multiple smaller spaces. Lighting and controls must be laid out to address the various sizes and configurations. Functions are quite varied even within designations dining, exhibition, demonstration, and presentations. This usually requires design of a controls system that may demand operators instructed in the use of the system. Additionally, in smaller meeting room setups it may be necessary to have simplified controls accessible to participants to accommodate AV presentations and overhead projection without the need for professional staffing. 
+Challenges include lighting system efficiency given high ceilings and large space volumes. Light-finish ceiling and wall surfaces are important. Provisions for entertainment lighting are usually required. Some ballroom designs include sound and light locks where light-ing should be designed to manage the luminance change from a darkened ballroom to the adjacent prefunction space. See Figure 24.2 | Sound and Light Lock. If no sound and light locks are employed, then the adjacent prefunction and circulation areas should be designed to limit brightness distractions. This may involve linking the lighting in the prefunction and circulation areas with ballroom lighting controls so that lighting tracks ballroom presets. 
+Figure 28.2 illustrates a typical ballroom setup and identifies the architectural lighting to support that and other setups. 
+28.2.4 Building Entries 
+
+Lighting for building entries is discussed in 22 | LIGHTING FOR COMMON APPLICATIONS. The lighting of building entries for hospitality and entertainment facilities contributes significantly to the nighttime arrival sequence. Hospitality and entertainment destinations are often intended as social occasions (breaks, getaways, or celebrations) or as business occasions (retreats or advances, learning, and fraternizing). All of this involves a sense of anticipation and desire. The entry architecture and lighting can further these sentiments and popularize places as highly desirable or even necessary destinations. See Figure 28.3. 
+One variable is activity level during the nighttime hours. Another variable demanding attention prior to establishing illuminance criteria is the nighttime outdoor lighting zone. Nighttime activity levels may vary by type of facility, such as hotel, restaurant, or theater. The hotel is likely to have low-to-medium steady activity over some period of time, but if ballroom and meeting facilities are involved, then short bursts of high activity are likely. Activity at theaters is typified by the number of screens in film theaters and the timing of performances in stage theaters. Multi-screen film theaters may exhibit medium to high activity over multiple half-hour periods. Stage theaters typically exhibit medium to high activity over single half-hour period pre-show and again post-show. All of this may demand a control system capable of addressing various settings on various evenings through manual intervention, automated time clock, and photocell functions. These and other aspects of schedule, activity-levels, and nighttime outdoor lighting zones must be established in programming. 
+The nighttime outdoor lighting zone within which the facility is located or to which the team and client elect to design affects the illuminance criteria for outdoor tasks. Night-time outdoor lighting zone designations vary by local ordinance, sustainability guides, or the team¡¯s own definition of place. These are discussed in 26 | LIGHTING FOR EXTE-
+RIORS. Also see Table 15.6 | Nighttime Operational Strategies for Improved Outdoor Environmental Regard. 
+IES 10th Edition 
+
+
+
+Figure 28.2 | Ballrooms 
+This ballroom can be reconfigured into as many as five smaller ballrooms or meeting rooms. Lighting layouts and control zoning and the controls are arranged to accommodate the variations. A combination of cove lighting (not energized here), chandeliers, and recessed downlights (not energized here) are employed. The coves use dimmable long compact fluorescent lamps, the chandeliers use nondim CFLs, and the downlights and accents use halogenIR120V. The chandeliers use two zones of control for 2-level lighting. Lamp CCT is 3000 K and CRI is ¡Ý82 and the chandelier lenses are color-tuned to achieve the look of a filament-lamp glow. Stage lighting rigging and instruments are in place for entertainment lighting at this dinner banquet. . Image .Kevin Beswick, www.ppt-photographics.com 
+The Lighting Handbook | 28.3
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+Category Gauge Category Gauge 
+
+.
+.
+.
+.
+
+
+overall brightness perceptions and provides visual relief. Accenting is also used for visual attraction and wayfinding. See 22 | LIGHTING FOR COMMON APPLICATIONS/ACCENTING for default accenting criteria for 
+K 25 
+100 Avg G 7.5 
+
+30 Avg K 25 
+100 Avg G 7.5 
+
+30 Avg O 100 
+400 Avg L 37.5 
+
+150 Avg M 50 
+200 Avg I 15 
+
+60 Avg N 75 
+300 Avg J 20 80 Avg 
+
+I 15 
+60 Avg F 5 20 Avg 
+
+O 100 
+400 Avg K 25 100 Avg 
+
+N 75 
+300 Avg J 20 
+
+80 Avg L 37.5 
+150 Avg H 10 
+
+40 Avg R 250 
+1000 Avg O 100 
+
+400 Avg Q 200 
+800 Avg N 75 
+
+300 Avg N 75 
+300 Avg L 37.5 
+
+150 Avg 
+K 25 
+100 Avg G 7.5 
+
+30 Avg F5 
+20 Avg D 3 
+
+12 Avg F5 
+20 Avg D 3 
+
+12 Avg M 50 
+200 Avg J 20 
+
+80 Avg T 500 
+2000 Avg R 250 
+
+1000 Avg Cited values are intended for screen plane when screen is in use (limit light on screen for best viewing condition) 10 
+10 Max 50 
+50 Max 
+Avg ¡Ü3 times audience Eh Avg ¡Ü3 times audience Eh 
+S 375 
+1500 Avg O 100 400 Avg 
+
+Notes<2525-65>65<2525-65>65See 22 | LIGHTING FOR COMMON APPLICATIONS On artwork plane (typically vertical) see Table 15.2 On wall plane see Table 15.2 On wall plane see Table 15.2 Eh @floor; Ev @5' AFF 50 15 Eh @floor; Ev @5' AFF 50 15 Eh @2' 6"; Ev @4' AFF 200 75 Eh @2' 6"; Ev @4' AFF 100 30 Eh and Ev @2' 6" AFF 150 40 See CONTROL BOOTHS Eh @dance floor; Ev @5' AFF 30 10 Eh @2' 6"; Ev @4' AFF 200 50 Eh @2' 6"; Ev @4' AFF 150 40 Eh @2' 6"; Ev @4' AFF 75 20 Eh @3' AFF; Ev @5' AFF 500 200 Eh @2' 6" AFF; Ev @4' AFF 400 150 Eh and Ev @2' 6" AFF 150 75 High degree of flexibility Eh @2' AFF; Ev @4' AFF Notetaking is intended 50 15 No notetaking is intended 10 6 10 6 100 40 1000 500 Little live narration or oral presentation, if any 10 Live narration or oral presentation accompanied by some AV 50 Lighting at the speaker or panel of speakers Ev @4' AFF seated or @5' AFF standing Eh @2' 6" AFF See 22 | LIGHTING FOR COMMON APPLICATIONS Horizontal(Eh)Targets750 200 Vertical(Ev)TargetsVisualAgesofObservers(years)RecommendedMaintainedIlluminanceTargets(lux)b,c,dVisualAgesofObservers(years)where atleasthalfare where atleasthalfare Accenting influences observers' consideration in any application. Eh @2' 6" AFF seated or 3' 6" standing; Ev @4' AFF seated or @5' AFF standing Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations continued next page 
+IES 10th Edition 
+
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. 
+Applications, tasks, or viewing specifics encountered on any given project may be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional activity. In a few situations, code requirements are within 10% of IES recom-mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for any of the applications and tasks and the designer must design accordingly. 
+
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+
+
+f. 
+
+
+Applications and tasks cited with sunburst icon  are candidates for 
+2
+strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  
+signals high likeli-hood; gray and white  
+signals moderate likelihood; pale gray and white 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. 
+The designer must establish areas of coverage to which targets apply. Green 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or 
+
+
+highlight identifies task proper or task area as the typical area of coverage for  
+respective cited targets. Amber   highlight identifies room or designated area  
+as the typical area of coverage for respective cited targets.  
+i.  ¡°High Light Setting¡± typically employed where exhibit displays have little or no  
+internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡±  
+typically employed where exhibit displays have significant internal lighting or  
+where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for  
+set-up, tear-down, and cleanup.  
+j.  See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions.  
+
+jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+l. Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and for both CCTs to be energized for maximum viewing flexibility. 
+3:1 
+
+
+IES 10th Edition 
+
+
+The Lighting Handbook | 28.5
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+Category Gauge Category Gauge 
+
+.
+.
+.
+.
+
+
+N 75 
+
+300 Avg K 25 
+
+
+100 Avg P 150 600 Avg L 37.5 
+150 Avg 
+L 37.5 
+150 Avg J 20 80 Avg 
+
+-0 0 -0 0 
+O 100 400 Avg M 50 200 Avg 
+
+O 100 400 Avg M 50 200 Avg 
+
+B1 4 Avg -0 0 
+K 25 100 Avg I 15 60 Avg 
+
+Q 200 800 Avg O 100 400 Avg 
+
+H 10 40 Avg -0 0 
+O 100 400 Avg M 50 200 Avg 
+
+P 150 600 Avg M 50 200 Avg 
+
+M 50 200 Avg K 25 100 Avg 
+
+R 250 1000 Avg O 100 400 Avg 
+
+P 150 600 Avg M 50 200 
+M 50 200 Avg I 15 60 Avg 
+
+
+Applies when auxiliary spaces are 
+K 25 100 Avg G 7.5 
+
+30 Avg 
+in use. Eh @floor; E@5' AFF Eh @3' 6"; Ev @5' AFF Q 200 
+800 Avg N 75 300 Avg 
+
+R 250 1000 Avg O 100 400 Avg 
+
+N 75 300 Avg L 37.5 
+
+150 Avg 
+
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations continued next page 
+
+IES 10th Edition
+28.6 | The Lighting Handbook 
+
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+Over Area of Coverage 
+
+Max:Avg Avg:Min 
+2:1 
+
+
+f. 
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. Applications, tasks, or viewing specifics encountered on any given project may 
+
+Max:Min Area 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. Values cited are to be maintained over time on the area of coverage. 
+Values cited are consensus and deemed appropriate for respective functional 
+3:1 
+c. 
+activity. In a few situations, code requirements are within 10% of IES recom-mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for any of the applications and tasks and the designer must design accordingly. 
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+
+
+Applications and tasks cited with sunburst icon  are candidates for 
+2
+strategies employing any combination of daylighting and electric lighting to 2:1 
+
+
+achieve target values during daylight hours. Daylighting may require uncon-2:1 
+ventional approaches. 
+2:1 g. Tasks with specular components, like computers with CSA/ISO Type III screens 2:1 
+or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections 2:1 is indicated by the reflected-light icon: black and white  signals high likeli-2:1 
+
+hood; gray and white  
+signals moderate likelihood; pale gray and white signals some likelihood; and all-white signals little-to-no likelihood. 
+h. The designer must establish areas of coverage to which targets apply. Green 2:1 
+
+see 15.1.1.3 see 15.1.1.3 see 15.1.1.3 see 15.1.1.3 see 15.1.1.3 
+highlight identifies task proper or task area as the typical area of coverage for 2:1 
+respective cited targets. Amber  
+and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and 
+internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡± typically employed where exhibit displays have significant internal lighting or where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for set-up, tear-down, and cleanup. 
+i. ¡°High Light Setting¡± typically employed where exhibit displays have little or no highlight identifies room or designated area 
+2:1 as the typical area of coverage for respective cited targets. 
+
+2:1 
+j. 
+See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions. 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+
+
+
+2:1 l. Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K 2:1 
+4:1 
+for both CCTs to be energized for maximum viewing flexibility. 
+
+
+
+
+IES 10th Edition The Lighting Handbook | 28.7
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations continued next page 
+
+
+28.8 | The Lighting Handbook IES 10th Edition 
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. Applications, tasks, or viewing specifics encountered on any given project may 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional 
+
+
+activity. In a few situations, code requirements are within 10% of IES recom-
+mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for any of the applications and tasks and the designer must design accordingly. 
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+
+
+f. 
+Applications and tasks cited with sunburst icon  are candidates for 
+2
+strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections 
+is indicated by the reflected-light icon: black and white  
+signals high likeli-
+hood; gray and white  
+signals moderate likelihood; pale gray and white 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. The designer must establish areas of coverage to which targets apply. Green highlight identifies task proper or task area as the typical area of coverage for respective cited targets. Amber  
+highlight identifies room or designated area as the typical area of coverage for respective cited targets. 
+i. 
+¡°High Light Setting¡± typically employed where exhibit displays have little or no internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡± typically employed where exhibit displays have significant internal lighting or where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for set-up, tear-down, and cleanup. 
+
+j. 
+See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions. 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime 
+
+
+illuminance targets are intended for application during dark hours of opera-4:1 (8:1) tion where lighting is deemed necessary or desirable. At curfew (client- or 4:1 (8:1) jurisdiction-defined), if lighting is still deemed necessary or desirable, then 4:1 (8:1) reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+4:1 (8:1) l. Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 4:1 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K 4:1 (8:1) and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and 4:1 (8:1) for both CCTs to be energized for maximum viewing flexibility. 
+
+
+4:1 (8:1) 
+4:1 (8:1) 
+
+
+IES 10th Edition The Lighting Handbook | 28.9
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations continued next page 
+28.10 | The Lighting Handbook IES 10th Edition 
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. Applications, tasks, or viewing specifics encountered on any given project may 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional 
+
+
+activity. In a few situations, code requirements are within 10% of IES recom-mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for any of the applications and tasks and the designer must design accordingly. 
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+
+
+f. Applications and tasks cited with sunburst icon  are candidates for 
+strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  signals high likeli-
+2 
+2:1 
+2:1 hood; gray and white  signals moderate likelihood; pale gray and white signals some likelihood; and all-white signals little-to-no likelihood. 
+
+h. The designer must establish areas of coverage to which targets apply. Green highlight identifies task proper or task area as the typical area of coverage for respective cited targets. Amber  
+highlight identifies room or designated area 
+2:1 
+
+
+
+as the typical area of coverage for respective cited targets. 
+i.  ¡°High Light Setting¡± typically employed where exhibit displays have little or no  
+internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡±  
+typically employed where exhibit displays have significant internal lighting or  
+where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for  
+set-up, tear-down, and cleanup.  
+j.  See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions.  
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+
+l. 
+Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and for both CCTs to be energized for maximum viewing flexibility. 
+
+
+
+The Lighting Handbook | 28.11
+
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+Recommended Maintained Illuminance Targets (lux)b, c ,d 
+
+Horizontal (Eh) Targets Vertical (Ev) Targets 
+Visual Ages of Observers (years) Visual Ages of Observers (years) where at least half are where at least half are 
+
+Notes <25 25-65 >65 <25 25-65 >65 
+
+Category 
+
+Gauge Category 
+
+
+Gauge 
+.
+
+.
+.
+
+
+.
+
+On artwork plane (typically vertical) Eh @floor; Ev @3' -5' AFF K 25 
+100 Avg H 10 
+
+40 Avg 
+Eh @fixture top; Ev @3' -5' AFF J 20 80 Avg G 7.5 30 Avg 
+Eh@3'AFF;Ev@3'-5'AFF O 100 400 Avg O 100 400 Avg 
+Eh and Ev @4' AFF @shelf face  I  15  30  60  Avg  H  10  20  40  Avg  
+Eh @table plane; Ev @4' AFF  M  50  100  200  Avg  I  15  30  60  Avg  
+Eh @floor; Ev @5' AFF  H  10  20  40  Avg  F  5  10  20  Avg  
+
+Eh and Ev @3' AFF, small area O 100 
+
+400 Avg M 50 
+
+
+200 Avg 
+Eh and Ev @2' 6" at sitting areas N 75 
+300 Avg K 25 
+
+100 Avg 
+Eh @desk; Ev @4' AFF O 100 
+400 Avg I 15 
+
+60 Avg 
+Eh@floor;Ev@5'AFF H 10 20 40 Avg E 4 8 16 Avg 
+Eh @treads J 20 
+
+80 Avg Eh and Ev @prep surfaces R 250 
+1000 Avg L 37.5 75 150 Avg See 22 | LIGHTING FOR COMMON APPLICATIONS See 26 | LIGHTING FOR EXTERIORS See 26 | LIGHTING FOR EXTERIORS See 22 | LIGHTING FOR COMMON APPLICATIONS 
+Eh @floor; Ev @5' AFF K 25 
+100 Avg M 50 
+
+
+200 Avg Eh @floor; Ev @2' AFF P 150 
+600 Avg M 50 
+
+200 Avg Eh @floor; Ev @5' AFF H 10 
+40 Avg C 2 
+
+8 Avg See TOILETS/LOCKER ROOMS Eh @floor; Ev @4' AFF P 150 
+Eh @floor; Ev @4' AFF O 100 200 400 Avg M 50 100 200 Avg Eh @hand rest; Ev @4' AFF R 250 
+Eh @foot rest; Ev @4' AFF R 250 500 1000 Avg N 75 150 300 Avg 
+
+
+Eh @floor; Ev @4' AFF O 100 200 400 Avg M 50 100 200 Avg 
+See FITNESS CENTER/Pools 
+
+
+
+28.12 | The Lighting Handbook IES 10th Edition 
+
+
+
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+Over Area of Coverage 
+
+
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. Applications, tasks, or viewing specifics encountered on any given project may 
+
+Max:Min Area 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. Values cited are to be maintained over time on the area of coverage. 
+3:1 
+3:1 
+2:1 
+c. Values cited are consensus and deemed appropriate for respective functional activity. In a few situations, code requirements are within 10% of IES recom-mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for 
+any of the applications and tasks and the designer must design accordingly. 
+d. Targets are intended to apply to the respective plane or planes of the task. 
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction 
+with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+f. 
+Applications and tasks cited with sunburst icon  are candidates for 
+4:1 strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  
+signals high likeli-hood; gray and white  
+signals moderate likelihood; pale gray and white 
+2 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. 
+The designer must establish areas of coverage to which targets apply. Green 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+
+l. 
+Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and for both CCTs to be energized for maximum viewing flexibility. 
+
+
+highlight identifies task proper or task area as the typical area of coverage for  
+respective cited targets. Amber   highlight identifies room or designated area  
+as the typical area of coverage for respective cited targets.  
+i.  ¡°High Light Setting¡± typically employed where exhibit displays have little or no  
+internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡±  
+typically employed where exhibit displays have significant internal lighting or  
+where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for  
+set-up, tear-down, and cleanup.  
+j.  See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions.  
+
+
+
+IES 10th Edition The Lighting Handbook | 28.13
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+
+
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations continued next page 
+
+IES 10th Edition 
+
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+Over Area of Coverage 
+
+
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. Applications, tasks, or viewing specifics encountered on any given project may 
+
+Max:Min Area 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional activity. In a few situations, code requirements are within 10% of IES recom-
+
+
+3:1 
+mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for 
+any of the applications and tasks and the designer must design accordingly. 
+2:1 
+
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+
+
+f. 
+Applications and tasks cited with sunburst icon  are candidates for 
+strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-
+2 
+5:1 
+3:1 
+5:1 
+3:1 
+3:1 
+3:1 
+3:1 
+3:1 
+3:1 
+
+
+
+ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens 
+or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. 
+The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  
+signals high likeli-hood; gray and white  
+signals moderate likelihood; pale gray and white 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. The designer must establish areas of coverage to which targets apply. Green 
+highlight identifies task proper or task area as the typical area of coverage for 
+respective cited targets. Amber  
+highlight identifies room or designated area as the typical area of coverage for respective cited targets. 
+i. ¡°High Light Setting¡± typically employed where exhibit displays have little or no internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡± 
+typically employed where exhibit displays have significant internal lighting or where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for 
+set-up, tear-down, and cleanup. 
+j. 
+See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions. 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+
+l. 
+Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and for both CCTs to be energized for maximum viewing flexibility. 
+
+
+
+
+
+IES 10th Edition The Lighting Handbook | 28.15
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations continued next page 
+
+
+28.16 | The Lighting Handbook IES 10th Edition 
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+Over Area of Coverage 
+
+
+
+Max:Avg Avg:Min 
+mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for any of the applications and tasks and the designer must design accordingly. 
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction 
+
+
+2:1 
+5:1/3:1 See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+
+a. Applications, tasks, or viewing specifics encountered on any given project may Max:Min Area 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional 
+
+
+activity. In a few situations, code requirements are within 10% of IES recom-
+3:1 
+with luminance ratios and surface reflectances. Any parenthetical uniformity 
+2:1 values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+2:1 
+f. Applications and tasks cited with sunburst icon  are candidates for 5:1/2:1 
+2 
+
+2:1 
+5:1/2:1 
+
+2:1 2:1 2:1 strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  
+signals high likeli-hood; gray and white  
+signals moderate likelihood; pale gray and white 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. The designer must establish areas of coverage to which targets apply. Green highlight identifies task proper or task area as the typical area of coverage for respective cited targets. Amber  
+highlight identifies room or designated area as the typical area of coverage for respective cited targets. 
+
+i. ¡°High Light Setting¡± typically employed where exhibit displays have little or no 
+3:1 internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡± typically employed where exhibit displays have significant internal lighting or where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for set-up, tear-down, and cleanup. 
+j. See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions. 
+
+3:1 
+k. See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then 
+reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+l. Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and 2:1 
+
+
+see Table 12.6 see Table 12.6 2:1 see Table 12.6 for both CCTs to be energized for maximum viewing flexibility. 
+
+
+IES 10th Edition The Lighting Handbook | 28.17
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+. General Eh@floor;Ev@3'-5'AFF K 25 50 100 Avg I 15 30 60 Avg 
+H 10 
+
+
+40 Avg H 10 
+40 Avg M 50 
+200 Avg M 50 
+
+200 Avg O 100 
+400 Avg O 100 
+
+400 Avg M 50 
+200 Avg K 25 
+
+100 Avg N 75 
+300 Avg O 100 400 Avg 
+
+As the architect coordinates contrast markings with steps, curbs, and ramps, localized lighting may be deemed appropriate. 
+
+
+Avg ¡Ý0.3 times task Eh of adjacent space or Avg ¡Ý0.3 times task Eof adjacent space as cameras require, but with min ¡Ý10 lx or as cameras require Eh @floor; Ev @5' AFF K 25 
+100 Avg I 15 60 Avg 
+
+
+28.18 | The Lighting Handbook IES 10th Edition 
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+
+Over Area of Coverage 
+
+
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. a. Applications, tasks, or viewing specifics encountered on any given project may Max:Min Area 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional activity. In a few situations, code requirements are within 10% of IES recom-
+
+
+mendations. This is apparently an artifact of metrication. Footcandle conver-
+2:1 
+
+
+less, codes, ordinances, or mandates may supersede any of the IES criteria for 
+any of the applications and tasks and the designer must design accordingly. 
+5:1/2:1 
+sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-
+2:1 
+d. Targets are intended to apply to the respective plane or planes of the task. 
+2:1 
+e. Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+f. 
+Applications and tasks cited with sunburst icon  are candidates for 
+2 
+achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  signals high likeli-5:1/3:1 hood; gray and white  
+
+
+signals moderate likelihood; pale gray and white 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. The designer must establish areas of coverage to which targets apply. Green highlight identifies task proper or task area as the typical area of coverage for respective cited targets. Amber  
+highlight identifies room or designated area 
+as the typical area of coverage for respective cited targets. 
+i. ¡°High Light Setting¡± typically employed where exhibit displays have little or no 
+internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡± typically employed where exhibit displays have significant internal lighting or where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for set-up, tear-down, and cleanup. 
+j. 
+See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions. 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime 
+
+
+illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+l. Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and for both CCTs to be energized for maximum viewing flexibility. 
+3:1 
+2:1 
+4:1 
+2:1 
+2:1 
+2:1 
+2:1 
+IES 10th Edition The Lighting Handbook | 28.1928.20 | The Lighting Handbook IES 10th Edition 
+
+
+Notes <25 25-65 >65 <25 25-65 >65 Category Gauge Category Gauge ....Vertical (Ev) Targets Visual Ages of Observers (years) Recommended Maintained Illuminance Targets (lux)b, c ,d Horizontal (Eh) Targets Visual Ages of Observers (years) where at least half are where at least half are Circulation Corridors (continued) .Adjacency Passageways Eh @floor; Ev @5' AFF K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg 10 10 10 Min H 10 40 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg K 25 50 100 Avg I 15 60 Avg M 50 100 200 Avg I 15 60 Avg K 25 50 100 Avg H 10 40 Avg M 50 100 200 Avg I 15 60 Avg O 100 200 400 Avg L 37.5 150 Avg N 75 150 300 Avg K 25 100 Avg N 75 150 300 K 25 100 Avg J 20 40 80 Avg G 7.5 30 Avg P 150 300 600 Avg K 25 100 Avg H 10 20 40 Avg C 2 8 Avg N 75 150 300 Avg K 25 100 Avg J 20 40 80 Avg G 7.5 30 Avg M 50 100 200 Avg K 25 100 Avg M 50 100 200 Avg K 25 100 Avg K 25 50 Avg ¡Ý0.2 times task Eh of adjacent space or as cameras require, but with min ¡Ý10 lx Avg ¡Ý0.2 times task Eof adjacent space 
+
+Table 28.2 | Hospitality and Entertainment Facilities Illuminance Recommendations 
+
+
+
+
+
+
+
+
+
+Notes for Table 28.2 
+The table column headings are discussed in detail in 28.3 Illuminance Criteria. 
+Over Area of Coverage 
+
+
+See 12.5.5 Illuminance for discussion on procedures for establishing illuminance targets for a project. See Table 28.3 | SI Dimensional Conversions. 
+a. Applications, tasks, or viewing specifics encountered on any given project may 
+
+Max:Min Area 
+be different from these and may warrant different criteria. See 28.3.1 Applica-
+tions and Tasks. The designer is responsible for making final determinations of applications, tasks, and illuminance criteria. Outdoor tasks are so noted. 
+b. 
+Values cited are to be maintained over time on the area of coverage. 
+
+c. 
+Values cited are consensus and deemed appropriate for respective functional activity. In a few situations, code requirements are within 10% of IES recom-
+
+
+3:1 mendations. This is apparently an artifact of metrication. Footcandle conver-sions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. Regard-less, codes, ordinances, or mandates may supersede any of the IES criteria for any of the applications and tasks and the designer must design accordingly. 
+d. 
+Targets are intended to apply to the respective plane or planes of the task. 
+
+e. 
+Illuminance uniformity targets offer best results when planned in conjunction with luminance ratios and surface reflectances. Any parenthetical uniformity values reference respective parenthetical applications or tasks, such as a cur-few situation associated with nighttime outdoor lighting. 
+
+
+2:1 
+f. Applications and tasks cited with sunburst icon  are candidates for 
+2 
+2:1 strategies employing any combination of daylighting and electric lighting to achieve target values during daylight hours. Daylighting may require uncon-ventional approaches. 
+g. Tasks with specular components, like computers with CSA/ISO Type III screens 
+2:1 or printed tasks with glossy ink or glossy paper, are prone to veiling reflections. The likelihood of an application¡¯s or task¡¯s predisposition to veiling reflections is indicated by the reflected-light icon: black and white  
+signals high likeli-hood; gray and white  
+signals moderate likelihood; pale gray and white 
+signals some likelihood; and all-white signals little-to-no likelihood. 
+h. The designer must establish areas of coverage to which targets apply. Green highlight identifies task proper or task area as the typical area of coverage for respective cited targets. Amber  
+highlight identifies room or designated area as the typical area of coverage for respective cited targets. 
+i. ¡°High Light Setting¡± typically employed where exhibit displays have little or no 4:1 
+internal lighting and where no theatrical rigging is used. ¡°Low Light Setting¡± 
+4:1 
+
+
+typically employed where exhibit displays have significant internal lighting or 
+where theatrical rigging and instruments are used. ¡°Low Light Setting¡± used for set-up, tear-down, and cleanup. 
+j. 
+See Table 22.4 | Indoor and Nighttime Outdoor Activity Level Definitions. 
+
+k. 
+See Table 26.4 | Nighttime Outdoor Lighting Zone Definitions. Nighttime illuminance targets are intended for application during dark hours of opera-tion where lighting is deemed necessary or desirable. At curfew (client- or jurisdiction-defined), if lighting is still deemed necessary or desirable, then reduce lighting as indicated. See Table 26.5 | Recommended Light Trespass Illuminance Limits for recommended light trespass illuminance limits. 
+
+l. 
+Make half the illuminance available from lamps exhibiting CCTs of 5000 K or 6500 K and CRI ¡Ý85 and half from lamps exhibiting CCTs of 2700 K or 3000 K and CRI ¡Ý85. Provide three control settings: for one CCT; for the other CCT; and for both CCTs to be energized for maximum viewing flexibility. 
+
+
+
+
+IES 10th Edition The Lighting Handbook | 28.21
+
+Figure 28.3 | Entries as Arrivals 
+The porte cochere on this 21-story urban hotel provides a unique and visually exciting arrival. The 1 W-blue-LED-lamped porte co-chere acrylic cylinders and 3 W-6500 K-LED-lamped 10¡ã-beam downlights 1integrated into the structure meet the illuminance rec-ommendations for BUILDING ENTRIES/Porte Cocheres/High Activity/LZ4 in Table 22.2. 
+Various lighting effects are used to figura-tively and literally lead people into the foyer and registration lobby. The criteria outlined in Table 28.2 under TRANSITION SPACES/ Accents/Significant Focal Point were used on the interior feature wall 2. This is lighted with a continuous wall slot lamped with 39W/PAR20/CMH 10¡ã-beam spot lamps fitted with linear spread lenses to generate strong luminance for visual attraction. Lamp CCT is 3000 K and CRI is ¡Ý82, a further contrast to the exterior porte cochere contributing to dimensional distinction and visual attraction. . Image .Kevin Beswick, www.ppt-photographics.com 
+Table 28.3 | SI Dimensional Conversions 
+
+US Customary  SI  
+General  Hard Conversion  
+inches  mm [inches ¡Á 25.40]  
+feet  m [feet ¡Á 0.30]  
+Specific  Convenient Conversionsa  
+2'  610 mm or 0.6 m  
+2' 6"  760 mm or 0.75 m  
+3'  915 mm or 0.9 m  
+3' 6"  1065 mm or 1.1 m  
+4'  1220 mm or 1.2 m  
+5'  1525 mm or 1.5 m  
+
+a. Hard conversions rounded for reporting con-venience. Not to be confused with metric-sized luminaires or other building materials. Not for precision construction. 
+1
+2
+28.2.5 Business Centers 
+Although business centers are a utilitarian amenity in hospitality facilities, their lighting can help distinguish these from uninspired back-room spaces. Every public space in a hospitality or entertainment facility contributes to the clientele¡¯s experience and overall satisfaction. 
+28.2.6 Conferencing 
+The lighting of conferencing facilities is addressed in 22 | LIGHTING FOR COMMON APPLICATIONS. In hospitality and entertainment facilities, conference spaces are most likely to be used by uninitiated clientele. Here, simple preset controls are best with two to four scenes and clearly marked keypad buttons (for example, MEET, AV, VIDEOCON, and OFF). If daylight control is necessary for any of these scenes, this too is automated with the lighting presets for convenience. A photocell may be interfaced with the preset lighting control system for optimal viewing conditions and energy savings. However, this may warrant introduction of a daylight control override which itself is likely to cause operator confusion. These are details to address with the client during programming and design. 
+Similar to situations involving ballrooms with no sound and light locks, the prefunction or circulation areas adjacent to conference centers may require close design scrutiny to avoid annoying distracting brightnesses as meeting attendees come and go. Lighting in adjacent circulation or prefunction areas can be tied into conference room presets. Alternatively, lighting effects and strategic location of low-reflectance surface finishes in adjacent circulation areas can limit visual distraction as conference room doors open and close. 
+28.2.7 Control Booths 
+Control booths are used wherever sound or light control or both are required from an isolated space with visual connection to the space under control. These may be used in auditoria, ballrooms, exhibit halls, and theaters. Control booths are also used in radio and broadcast studios. Programming must determine if the booth needs to be darkened and inconspicuous or if it is to be a part of the space under control where two-way viewing and observation is desirable. Where a dark booth is necessary during performances, step-lights might be used to illuminate the floor with very discrete, optically well-controlled, 
+
+28.22
+IES 10th Edition 
+
+
+
+and dimmable task lighting illuminating control boards and notes. If programming de-termines that the control board devices and readouts are backlighted and if notes are dis-played on computer, then only floor illuminance is needed during performances. Signifi-cant illuminances may be necessary for cleanup and for set-up and tear-down, depending on the permanence of the equipment in the booth. Figure 28.4 illustrates a typical control booth location as seen from the house. 
+28.2.8 Exhibit Halls 
+
+Convention centers and some hotels have exhibit halls of varying sizes. These multipurpose facilities, depending on their size and geographic locale may temporarily house training sessions, trade shows, religious gatherings, vehicular and sports shows, and large corporate and union functions. The normal power architectural lighting system typically accommodates set-up, tear-down, and some amount or all of the functional requirements of some of these various events. Luminaires are typically controlled in small groups to allow for efficient operation of incrementally smaller or larger events or permit some degree of tuning of light levels to types of displays. However, considerable electrical and structural infrastructure is necessary for theatrical rigging and for exhibit-integrated lighting to accommodate all situations. Figure 28.5 identifies just a few basic approaches. These facilities are made more appropriate for activities beyond exhibit displays if wall and/or ceiling surfaces are lighted. This addresses some elements identified in 12.2 Spatial Factors. 
+28.2.9 Fitness Centers 
+
+All pool criteria outlined in Table 28.2 are intended for relaxation and non-competitive exercising. For competitive situations, see 35 | LIGHTING FOR SPORTS AND RECREATION. Figure 28.6 illustrates an indoor hospitality pool application. Pool lighting should be planned with respect to maintenance and addressed with the client prior Veiling reflections from pools are common in indoor and outdoor situations depending on view angles and sight lines. Daylighting and electric lighting can be arranged to limit veiling reflections, but this is practical where a fixed position view, such as that of a lifeguard can be planned or where polarized-lens eyewear is used as in outdoor situations. 
+Many fitness centers, even in hotels, are a revenue stream and operate like a club. Here, reception and waiting, locker rooms and showers, and even retail areas are common. Lighting should be sympathetic to the fitness experience and to a club atmosphere. These facilities typically have swimming pools and hot tubs indoor or outdoor. Overlighting or gymnasia-like techniques should be avoided as these risk the potential for direct glare and wasted energy. For indoor pools, the anticipated activity level determines illuminance recommendations. See Table 22.4 for indoor activity level definitions. Lighting within the pools and hot tubs is necessary for observation of occupants and for comfortable use dur-ing dark-hours of operation or when daylight is insufficient. Vendors of such equipment should be consulted for recommendations on underwater luminaire wattage and lumen 
+The fitness center involves a number of situations where, although workout and conditioning are ¡°the tasks,¡± how people look and feel about themselves and their 
+
+With outdoor pools, the activity level and the nighttime outdoor lighting zone determine illuminance recommendations. See Table 22.4 for nighttime outdoor activity level 
+
+Figure 28.4 | Control Booth 
+The sound and light booth for this large auditorium (top center) houses sound and lighting control boards and can accommodate follow spots. Some of the theatrical lighting instruments controlled from the booth are just visible in a ¡°seam¡± in the laylight(top left). . Image .Balthazar Korab Photography Ltd. 
+Laylight is an architectural feature or element that is a decorative light diffuser typically posi-tioned below a skylight or roof monitor. Patterns of obscuring decorative glass or acrylic diffuse the light. Where no skylight or monitor exists or during dark hours, electric light is used to back-light the decorative diffuser [4]. 
+
+
+IES 10th Edition The Lighting Handbook | 28.23
+
+Figure 28.5 | Commercial Exhibit Halls 
+Techniques that have since made their way into retail and even into other architectural lighting applications are ceiling slots (in top photo) that can contain both exhibit accent lighting and general lighting for circulation, set-up, tear-down, and cleaning. Finished ceilings offer spatial definition and a refined appearance, but may only accommodate certain exhibits and clientele. These are aspects which must be explored in programming. 
+In the bottom photo, general lighting is achieved in a distinctly different manner. Theatrical rigging is used for mounting light-ing instruments where exhibits require such focal lighting. 
+Although exhibit halls do not traditionally make use of daylight, novel approaches to daylighting combined with improved day-light media can provide a dynamic luminous environment that is characteristic of daylight along with energy savings. . Top Image .GARY CAMERON/X00044/Reuters/ 
+Corbis . Bottom Image .Car Culture/Corbis 
+28.24 | The Lighting Handbook 
+definitions. Lighting within the pools and hot tubs is necessary for observation of occupants and for comfortable use. 
+Direct glare in any of the fitness applications can be minimized with approaches using low-wattage equipment, lensed or louvered equipment, deeply regressed optics, and indirect lighting. 
+Codes, ordinances, or mandates may supersede any of the IES criteria for any of the ap-plications and the requirements and design of which must be coordinated amongst the design team. 
+28.2.10 Food Service 
+Food service lighting is discussed in 22 | LIGHTING FOR COMMON APPLICATIONS. 
+Most pronounced and problematic is the transition from kitchen to dining room. Sound and light locks work well, but may create circulation problems for wait staff. Transition zones where no food preparation takes place can be used to segue from the dining room to the kitchen. A common problem is a lack of visual consistency and glare control between kitchen and dining room lighting. This can be avoided by selecting luminaires and lighting techniques that minimize glare as well as selecting lamps that are compatible with the color temperature and color rendering of those found in the dining room. Door operators that quickly and quietly swing shut also minimize any light disturbance from the kitchen. 
+Dining rooms and bars are lighted to engage the clientele or, in some instances, usher the process along. The intent must be established in programming. Subjective impressions outlined in Table 12.2 should guide the application of lighting effects. Illuminances associ-ated with artwork and features that assist with these subjective impressions are identified as Accenting in Table 28.2. Figure 28.7 and 28.8 illustrate effects of accenting and feature lighting in dining and bar lighting applications on senses of preference and relaxation. 
+28.2.11 Gaming 
+In casinos the lighting establishes mood, directs and holds attention, provides task lighting for game involvement, and accommodates critical and necessary surveillance. Meeting the visual requirements of one or several of these functions might be straightforward, however, meeting requirements for all of these simultaneously is a complex undertaking. Although programming and scope outline the various applications, tasks, and activities involved, consultation with regulators and surveillance specialists is necessary to develop illuminance criteria. Illuminance levels and uniformities are extremely important. Assessment of tasks for veiling reflections is a requirement if tasks are to be visible to clientele and security personnel in situ or remote-monitoring positions. Lamp CCTs typically in the 2700 K to 3000 K range with CRI ¡Ý82 are appropriate in these festive or club-like settings. 
+In the vicinity of game tables, vertical illuminances should softly and uniformly light play-ers¡¯ faces. Tables are typically illuminated from a variety of positions to minimize shadow-ing and glare effects of single sources. This also allows for continuation of play should one luminaire fail. Gentle lighting of background surfaces or iconic or artistic features will limit harsh contrast between game areas and backgrounds. 
+Many games are internally illuminated and subject to veiling reflections. Task orientations must be analyzed with respect to lighting techniques and direction of light. This may involve a series of virtual-model studies and ultimately a physical mockup. 
+During criteria review with regulators and surveillance specialists, an assessment must be made of the likely visual ages expected of more than half the observers and how this af-fects illuminance determination for those observers and for surveillance. It is important to reconcile any disparities prior to any final design work. 
+IES 10th Edition 
+
+
+
+
+28.2.12 Guest Rooms 
+
+The guest experience begins at the entry to the hotel, continues to the registration lobby, the elevator lobby, corridor, and, finally, the guest room itself. The lighting of each of these spaces should be consistent with the desired experience as established during programming. The guest room serves as home-away-from-home and as a getaway if for pleasure or business. The lighting effects will be commensurate with: 
+. 
+Hotel¡¯s desired stature, such as in travel ratings 
+
+. 
+Marketplace, such as a resort, first-class business property, or economy lodging 
+
+. 
+Pricing strategy 
+
+. 
+Competition 
+
+. 
+Guest¡¯s likely age 
+
+
+
+Even where the most basic of properties and amenities are involved, lighting must meet common needs of living. The illuminance criteria outlined in Table 28.2 are primarily intended as task-oriented. Multi-lamp overhead luminaires in the living area and bathroom generally result in inadequate and unsatisfactory lighting. Where table and floor luminaires are used, these should be lamped with dedicated-socket non-filament lamps for efficiency and system longevity. Although retrofits are considered an acceptable stop-gap measure on existing properties, new and renovation projects should seek portable lights that are listed and labeled as meeting UL/CSA/NOM requirements for dedicated socket lamps. Further, luminaire vendors should do heat testing to confirm lamp/ballast/ driver configurations will remain within component manufacturers¡¯ tolerances for efficient, warranted operation. 
+Where quality art is an important part of the decor, accenting a piece can significantly improve the overall appearance of the room and enhance the relaxation experience or even offer a visual break from work tasks. 
+Lighting for reading at beds may take a number of forms, from the traditional table-side luminaire to the headboard-mounted LED gooseneck. Both require some amount of user adjustment either of the luminaire position or intensity or of the task orientation to achieve satisfactory results. The luminaire wattages, light distribution, and placement should be sufficient to meet illuminance criteria in Table 28.2. Although Figure 28.9 illustrates a guest suite bedroom at a 4-star hotel, the concepts illustrated for lighting at the head of bed are increasingly common in standard rooms. 
+Where steps are involved, lighting should be used to demarcate the tread elevation changes. Depending on the design of the step or steps, contrast stripes may suffice. Otherwise, contrast stripes with lighting from overhead or steplights integrated into side walls or risers or tread overhangs is necessary. 
+Closets can be problematic as these are usually tiny spaces where code limitations on luminaire placement and size may preclude all but a token luminaire over the door header. In these situations, luminaires outside, but immediately adjacent to the closet may be advantageous. At the least, closet lighting should consist of efficient, long-life lamping suitable for frequent switching cycles. Luminaires internal to closets should be controlled by door contact switches or occupancy sensors. Occupancy sensors must be positioned to immediately sense closet activity without false-starts from adjoining room activity. 
+IES 10th Edition 
+
+Care should be taken by the design team to accommodate a sleep cycle with no light. Nightlights might be appropriate in larger suites, rooms with steps, or where the bathroom is not directly aligned with the bed. A strategically placed architecturally-integrated steplight or several can serve this function. To limit sleep disturbance these should be tied to timers or photocells and occupancy sensors. To best limit the disturbance to the circadian 
+
+
+
+Figure 28.6 | Indoor Hotel Pool 
+The simple lighting scheme illustrated here involves narrow, discrete, ceiling recessed fluorescent luminaires and a wall-recessed version, wallwashers, accent spot luminaires, and general downlights. With the exception of the lamps in the wall-recessed luminaires, all lamps exhibit a CCT of 3000 K with CRI ¡Ý82. Wall-recessed narrow slot lights at the right are lamped with blue linear fluorescent lamps for visual interest beyond the normal white-light-luminance-balance with the daylight media (such as the CMH wallwashers used at the far end). The narrow discrete, ceiling recessed fluorescent luminaires and the downlights are separately switched. 
+Veiling reflections are common with bodies of water. Eliminating or significantly controlling daylight is generally contrary to the premise behind daylighting of indoor pools. Early planning of daylight orientation, fixing key viewing positions, such as lifeguard locations, and arranging electric lighting accordingly is necessary if veiling reflections are to be minimized. Eyewear with polarized lenses can also minimize the effect of veiling reflections. 
+Illuminance criteria are applied to the deck and pool area noted in Table 28.2. Depend-
+ing on pool size, room geometry, luminaire spacings and optics, there may be no need for luminaires over the body of water. This aids lamp and ballast maintenance. . Image .Kevin Beswick, www.ppt-photographics.com 
+The Lighting Handbook | 28.25
+
+Figure 28.7 | Dining 
+Task lighting combines with decorative lighting to meet illuminance criteria and enhance the material and color variations in this dining room. With the exception of the curvilinear copper-colored neon slot and the fluorescent kitchen luminaires, lighting is achieved with 2700 K and 3000 K LEDs exhibiting CRIs ¡Ý82. The slot detail paint color was matched to the neon lamp color through mockup for optimal visual effect. The open kitchen is illuminated with 2x2 recessed luminaires with deep ribbed-blade-louvers with overlay lenses to meet requirements of food preparation areas. Fluorescent lamps are 2700 K for a seamless light color with the dining room. . Image .Gary Steffy Lighting Design Inc. 
+A master control of all lighting within the guest room that is tied to occupancy is most effective at minimizing energy consumption and maximizing in-service life of the system. One system employs a card-key switch at the entry to the room which activates power to all light switches in the guest room once the guest places the room card key into the card-key slot. When the key is removed from the card-key slot, all power to all lights is cut. 
+28.2.13 IT 
+Lighting for IT facilities is discussed in 22 | LIGHTING FOR COMMON APPLICATIONS. 
+28.2.14 Parking 
+Lighting for parking facilities is discussed in 26 | LIGHTING FOR EXTERIORS. 
+28.2.15 Pedestrian Ways 
+Lighting for pedestrian ways is discussed in 26 | LIGHTING FOR EXTERIORS. 
+28.2.16 Reading and Writing 
+Lighting for reading and writing is discussed in 22 | LIGHTING FOR COMMON APPLICATIONS. Reading and writing tasks occur within various applications. Familiarity with these tasks will aid with assessment of specific application tasks and activities. This may result in the recommendation of illuminance criteria different than that proposed in Table 28.2 for a particular application. For example, if the reception desk in a fitness center doubles as a work desk for employees, then a task citation of 8- and 10-
+pt. font on matte paper or with matte ink may be an appropriate recommendation and should be deliberated with the client. 
+28.2.17 Spas 
+Spas are the most indulgent of applications where the unquestionable goals of rest, relax-ation, and esteem are achieved with pampering to body and mind. Perhaps in no other application is the performance of light so critical and where less illuminance is more. As with other hospitality applications, lamp CCTs of 2700 K to 3000 K with CRI ¡Ý82 are appropriate to mimic the more comforting effects of traditional filament lighting. 
+High illuminances are necessary at the task areas where hair styling, manicures, and pedi-cures are performed. However, the illuminances associated with manicures and pedicures are best when limited closely to the approximate task area involved. Lighting equipment with well-controlled optics to avoid glare is best. For hair styling, an overall ¡°head-glow¡± is necessary for the stylist¡¯s work and for the clientele¡¯s periodic mirror-reflection views. Here, lighting should be relatively soft and multi-directional from overhead and front. This avoids shadows and harsh glare and limits unbecoming shadows under eyes, noses, and chins. In the hair color lab, a combination lighting system is best where lamps with CCTs of 2700 K to 3000 K and CRIs ¡Ý82 are available on one control zone and lamps with CCTs of 5000 K to 6500 K and CRIs ¡Ý85 are available on a second control zone. This offers three conditions under which to review color. 
+Careful programming is required to establish which spaces demand wet-rated and IP-rated equipment. See Table 15.4 | IP Rating System. 
+Saunas and steam rooms are difficult environments for most lighting equipment, even that which is UL/NRTL wet-rated in the USA, for example. The steam is pervasive and the temperature swings can wick water into gasketed equipment. Where these spaces are involved, consult with the supplier of the room templates and equipment and with lumi-naire vendors prior to selection and specification. 
+Secondary lighting systems provide lighting necessary for cleanup in many of the treat-ment and other low-light spaces. 
+
+
+28.26 | The Lighting Handbook IES 10th Edition 
+
+
+
+28.2.18 Support Spaces 
+
+These relatively back-of-house citations are self-explanatory. For purposes of maintenance convenience and where these spaces adjoin occupied areas, lamp types and color qualities should match those used elsewhere in the facility under design. 
+28.2.19 Theaters 
+
+Film and stage theaters serve different functions and have different lighting requirements even though many of the application and task names are common to each. Stage theaters use lighting instruments selected, laid out, and controlled in accordance with professional theater lighting designers¡¯ specifications and plans in order to illuminate performers and scenery to the requirements of the specific production for the benefit of the audience¡¯s entertainment experience. This stage lighting requires an extensive infrastructure for mounting, power, and control. 
+The architectural or ¡°house¡± lighting in the theater proper must exhibit excellent dimming range and very high color rendering (CRI ¡Ý85). All lamps should be capable of tracking each other at similar, if not identical, rates and quality of dimming. Otherwise, abrupt lighting changes, unsynchronized dimming between luminaire types, such as decorative sconces and steplights and chandeliers, or unsettling color shifts, will diminish the quality of patrons¡¯ event experiences. 
+CCT and CRI of lamps in luminaires at the delivery and staging work areas should be similar if not identical to those used in the theatrical stage instruments to avoid undesirable color appearance of scenery and props at showtime. 
+Acoustics, dimming ranges, and the amount, if any, of remote hardware are important considerations when selecting lamps, luminaires, and controls for the architectural or house lighting for the theater proper, especially for live performance theaters. Acoustics alone may preclude the use of fluorescent and LED lamps in some applications. Carefully scrutinize lamp, luminaire, ballast, driver, transformer, and controls devices. Operational mockups are best. Performance-quality dimming is appropriate. Figure 28.10 is an illustration of house lighting in a stage theater with a few theatrical instruments energized to highlight or ¡°warm¡± the curtain (hence, these are commonly called curtain warmers). 
+Aisle lighting requirements before, during, and after an event must be planned to allow for safe and convenient access into and out of the house at any time without creating disturbing shadows or reflections from people as they make their way to and from seats. When films are projected, as little ambient light as practical from the normal power architectural lighting system on the screen proper is best. Depending on jurisdictional requirements, the type of theater, and client programming requirements, use of direct-view floor-mounted miniature walk-over LED strip lighting may be appropriate to demarcate elevational changes. 
+28.2.20 Toilets/Locker Rooms 
+
+Lighting for toilets and locker rooms needs to meet the functional requirements of illuminance criteria outlined in Table 28.2. Addressing the plumbing fixture will provide sufficient light where needed without overlighting the entire toilet room. Vanities are most problematic when little or no vertical illuminance is designed to light an imaginary facial plane (roughly a zone of sufficient size to encompass faces) in front of the mirror. Wall sconces, small pendants between each sink, wall slot details illuminating light-colored upper walls above the mirror or some combination are all appropriate techniques. See Figure 22.7. 
+Vertical light over the faces of lockers will assist with locker use. 
+
+
+Figure 28.8 | Bar 
+There are times when, regardless of daylight availability, some lighting remains energized to simply identify an establishment as open-for-business. In this hotel bar, the back bar is illuminated as is the peninsula focal point. Decorative lighting overhead consists of multi-lamped pods arranged in a somewhat curvilinear and undulating pattern. The two-zone lamping allows for one zone to be extinguished while allowing the shades to glow. Alternating operating schedules of which zone is extinguished on which days can prolong in-service life of ballasts and lamps. This extends group relamping. Lamp CCT is 3000 K with CRI ¡Ý82. Shade materials are color tuned with the CFL lamping to provide a filament-lamp color quality. . Image .Kevin Beswick, www.ppt-photographics.com 
+Performance-quality dimming as used here refers to smooth and continuous dimming from full output (100%) to extremely low output (¡Ü0.1%) and vice versa. This dimming is achieved at a consistent and programmable or manual fade rate and can maintain a static steady state at any point along the continuum for a quality equal to that achieved when proper dimming of filament lamps is employed. Striations, visual steps, intermittent bright ¡°surges¡±, or sudden flashes or cutouts, color shifts, or other visual disturbances are unacceptable during dimming or static conditions. Performance quality dimming is appropriate where a continuous and complete fade to black is part of the experience, such as transitioning from intermission to show in a theater. 
+
+
+IES 10th Edition The Lighting Handbook | 28.27
+
+Figure 28.9 | Guest Suite 
+Bedside pendant luminaires and gooseneck LED reading luminaires are combined with the ambient lighting from a ceiling cove. Perimeter downlights provide sitting-area lighting. Preset scenes available from bedside and door-side keypads are DRESS, READ, TV, NIGHTLIGHT, and OFF. . Image .Kevin Beswick, www.ppt-photographics.com 
+28.28 | The Lighting Handbook 
+28.2.21 Transition Spaces 
+In hospitality and entertainment facilities, a number of spaces transition from one application to another. Some of these are considered back-of-house and available to employees only. Most are public spaces and many of these might be of a particular sequence of passage, ceremonial in nature, or of special importance. To appropriately serve these roles, subjective impressions outlined in Table 12.2 should guide the application of lighting effects. Illuminances associated with artwork and features that assist with these subjective impressions are outlined in Table 28.2. Figures 28.11 and 28.12 illustrates a hotel lobby lighted to the illuminances outlined in Table 28.2 using ambient, task, and accent lighting systems. Figure 28.12 illustrates lighting of a motel lobby. 
+28.3 Illuminance Criteria 
+Illuminance criteria, when fully deployed, are a robust set of quantitative values that influence visibility, visual performance, and visual comfort and attention. Short-circuiting the criteria selection or designing to a single criterion value, such as horizontal illuminance, to address worst-case tasks will surely result in dissatisfaction. Even if clients accept the visual results, not getting the most from the energy expended or, worse, energy waste is a likely result. Following are notes related to various topics outlined in Table 28.2. 
+28.3.1 Applications and Tasks 
+
+Applications and tasks encountered on any given project may be different from those identified inTable 28.2 and may warrant different illuminance criteria. Cross-referencing closely-associated applications or tasks is appropriate. Sometimes naming trends or conventions for space types or functions change to conform to current practice, client programming, or architectural conventions, but the actual activities and tasks remain the same and this cross-referencing works. Failing this technique, reviewing the list in Table 28.2 may be in order to determine if any applications or tasks exhibit a similar visual-component to the unique applications or tasks. Otherwise, reviewing 4.12 An Illumi-
+nance Determination System and Table 4.1 is necessary to establish a task category based on the task characteristics or visual performance descriptions most closely associated with the unique applications or tasks. These exercises as well as any deviations from recommen-
+dations the designer intends to make should be carefully documented for the record. 28.3.2 Notes 
+The notes in Table 28.2 may refer to other task headings in the table or to other handbook chapters as appropriate. Where some degree of clarification is warranted, notes are made. 
+28.3.3 Recommended Maintained Illuminance Targets 
+Values cited are maintained on the area of coverage for the task under consideration. Illuminance is additive. Where practical and without negatively affecting the intended ap-plication of light, target values are achieved with any combination of daylighting and/or electric lighting in whatever mix of ambient, task, and accent lighting is deemed appropri-ate to meet these and the other lighting goals established during design. See 12 | COM-
+PONENTS OF LIGHTING DESIGN and see 10.7.1 Light Loss Factors. 
+With respect to light loss factors, account for anticipated losses through the point in time at which group relamping and cleaning should occur. Group relamping and cleaning should be standard practice, though these need not occur at the same frequency. Periodic cleaning and group relamping essentially maintain the illuminance at criteria and make the most efficient use of the installed equipment. For purposes of sustainability, cleaning and group relamping can no longer be presumed to be infrequent or unlikely. Maintenance procedures must be part of the design discussions with the client. See the IES document 
+IES 10th Edition 
+
+
+
+
+IESNA/NALMCO RP-36 Recommended Practice for Planned Indoor Lighting Mainte-nance for additional information. Where maintenance is deferred or practiced poorly or not at all, the actual illuminance values will fall below criteria targets. This is inefficient, unsustainable, and may be unsafe while adversely affecting users¡¯ quality of life or work. Ratcheting initial illuminances higher is poor practice and not recommended. Mainte-nance procedures may be especially problematic with LEDs where promises of extraordi-narily long life may be offered, but usually with the caveat that lamp lumen depreciation (LLD) at that rated life is 70% or perhaps even as low as 50% of initial rating. If replace-ment cycles are presumed to be rated life, then LLD alone must be 0.7 or 0.5 or whatever lumen rating is certified by the LED vendor. See 13.3 Life and Lumen Maintenance. 
+Targets cited are consensus and recommended for respective functional activity. For some applications, IES recommendations are within 10% of code requirements. This apparently is an artifact of metrication. Footcandle conversions of any values cited in Table 28.2 should be made at 1 fc to 10 lx. This soft conversion avoids a redundant diminishing of illumi-
+nance values after multiple citations and conversions over time. This also eliminates a false sense of accuracy advanced by an ever-increasing number of decimal places and a false sense of urgency advanced by eccentric fractional values introduced by hard conversions. Never-theless, a lighting design must meet code and the mechanics of which must be coordinated amongst the design team. The IES recommendations should not, do not, and cannot reflect all of the various code requirements in force in all jurisdictions at any given time. 
+Targets are intended to apply to the dominant plane of the task, typically, but not always, horizontal or vertical. In some situations, illuminance criteria are cited for one plane, such as the vertical plane for lighting white boards, while the other plane is blank. The blank signifies that illuminance on that plane is unimportant and may be a consequence of the illuminance of other tasks within the vicinity or by whatever illuminance results from meeting the target illuminance for the prescribed plane of interest. 
+In some situations, no light is anticipated on at least one plane of a task. A 0 indicates no light or zero light is recommended for the task or application. 
+28.3.3.1 Target Planes 
+
+Many, though certainly not all, tasks are performed with the task in roughly a horizontal orientation or vertical orientation. A dominant orientation must be assigned and the illuminance target determined accordingly. There may be situations where the IES recommended target relating to the typical planar mode of a task must be applied to a different plane. 
+
+Figure 28.10 | Theater 
+Renovation of this theater involved reuse of existing ceiling downlights, introduction of a catwalk at the proscenium, and new seating, flooring, and walls. Prior to the renovation, only downlighting existed as house lighting. To brighten the house and introduce visual interest for the pre-show and intermission, a sequence of linear wall brackets with varying sizes and spacings of sconces was introduced. 
+Sconces consist of a modular glass lumi-naire (right detail) used in single and multiple groupings as the design team deemed neces-sary to flow with the wall height, floor slope, and balcony configurations. Each sconce module is lamped with halogen filament lamps selected for quiet operation, smooth, continuous, and deep dimming, and no re-mote equipment requirements. Lamp reflec-tions from the satin wood finish are usually considered acceptable if not desirable from the ¡°point source¡± of the halogen filament lamps. However, reflections from ¡°tiny point source¡± LEDs and from ¡°large area source¡± fluo-rescent lamps are typically undesirable. 
+The catwalk, added to introduce better stage lighting positions, forced removal of a row of downlights. To maintain lighting at the orchestra seating positions, architectural light slots were introduced. Existing down-lights were relamped with lower wattage halogenIR120V PAR38 lamps. 
+A few theatrical instruments are also ener-gized in this view to highlight or ¡°warm¡± the curtain (hence, these are commonly called curtain warmers). . Image .Ron Blunt Photography 
+
+
+The Lighting Handbook | 28.29
+
+Figure 28.11 | Hotel Lobby 
+A multi-story lobby/lounge/registration area is lighted using ambient, task, and accent lighting approaches combined. This view is of the lounge as seen from the registration lobby. Ambient lighting is based on illumi-nance criteria from Table 28.2 for TRANSITION SPACES/Lounges/Social/Waiting Areas. Task lighting is based on illuminance criteria from TRANSITION SPACES/Lounges/Reading/Work Areas. Accent lighting is based on TRANSI-TION SPACES/Accenting/Feature Wall Table 15.2/Soft (~5-to-1 from feature wall Ev to ambient Eh). 
+To introduce contrast beyond that achieved with accenting, colored light is used. The linear ambient luminaires are ceil-ing slots generating an indirect glow using T5HO blue fluorescent lamps. All other lumi-naires are lamped with CFL or CMH lamps exhibiting CCT 3000 K and CRI ¡Ý82. . Image .Kevin Beswick, www.ppt-photographics.com 
+Nearly all tasks are expected to have both a horizontal illuminance component (Eh) and a vertical illuminance component (Ev). This allows some degree of task flexibility for off-plane viewing and accommodates various aspects of the task. In some applications, like conventional art studios accommodating a variety of media, art forms, and genres, horizontal- and vertical-plane illuminances address the common studio situation where simultaneously some work or some portion of the work is on horizontal planes while other work or portion is on vertical planes. 
+Where illuminance targets are intended at differing planar elevations, this is indicated under ¡°Notes.¡± For example, for most corridors (TRANSITION SPACES/Circulation Corridors), horizontal illuminances apply to the floor plane while vertical illuminances apply to standing-face-plane height of 5¡¯ AFF oriented in the two main directions of travel. Although the nature of architectural lighting in many corridors is such that the target illuminance will coincidentally be met at the elevations of 3¡¯ and 4¡¯ AFF, the designer may elect to set the criteria elevation for vertical illuminance at 3¡¯ AFF or a range of 3¡¯-5¡¯ AFF to assure facial lighting for children and those in wheelchairs meets target. Establishing and tracking task orientations and addressing both horizontal and vertical illuminance is necessary. If orientations in the project under consideration are programmed to be flipped from what might be considered normal-viewing, then criteria must be adjusted accordingly. If a task is scheduled to be oriented on some plane off axis from horizontal or vertical by more than 10¡ã, say, then the illuminance criteria must be applied to that off-axis orientation. This is an important distinction for luminaire optical selection and aiming capabilities and for layout, calculations, and field measurements. 
+For planes related to vertical illuminance targets, some guidance is indicated under ¡°Notes.¡± However, the designer may elect to use alternate or multiple vertical planes. In some situations the vertical planes could be oriented in a number of directions and the designer must determine which are most appropriate for the situation. For example, in an exhibition hall, for Ev (EXHIBIT HALLS/General Exhibition for both High Light Setting and Low Lighting Setting), the number and orientation of vertical planar points assessed depends on the exhibit hall layout. For most, a universal layout is appropriate and, therefore, at least four vertical planes are of interest. One in each of the four cardinal directions of the plan. 
+28.3.3.2 Visual Ages of Observers 
+Illuminance criteria are based on the visual ages of more than half the intended observers. This aspect should be resolved during programming with the client. It may be determined that illuminance criteria for an age group other than that representing the majority of the intended observers is appropriate. However, this may result in overlighting, underlight-ing, harsh lighting, visual displeasure, or visual discomfort for many of the observers. See 
+12.5.5 Illuminance and 4.12 An Illuminance Determination System for additional infor-
+mation and guidance. In some situations, such as video conferencing, lighting must meet the requirements of the camera technology and, therefore, is not tied to ages of observers. 
+28.3.3.3 Illuminance Categories 
+Illuminance categories are designated by letters A through Y. These are shown in Table 
+28.2 for more convenient reference to Table 4.1 | Recommended Illuminance Targets should the designer wish to explore other criteria targets or if applications or tasks on a specific project are not readily correlated to the table citations. 
+28.3.3.4 Gauge 
+The common gauge for determining illuminance target compliance is cited for each application. All gauges presume that point-by-point techniques are used for predictive calculations and presume that uniformity criteria are closely monitored. Where an average illuminance value over the area of coverage can satisfy target compliance, ¡°Avg¡± is cited. In applications or tasks where a minimum or maximum target is necessary, the gauge for compliance is ¡°Min¡± or ¡°Max¡± respectively. 
+
+
+
+IES 10th Edition
+28.30 | The Lighting Handbook 
+
+
+The designer may elect to use other methods to evaluate target compliance, such as crite-rion rating (CR) or coefficient of variation (Cv). See 4.12.4.5 Tasks at Uncertain Loca-
+tions Over a Large Area. 
+In any event, once illuminance targets and uniformities are established, then any calcu-lated deviation from them should be limited. Standard engineering allowance of ¡À10% might be acceptable for targets gauged as average unless contractual or code obligations demand otherwise. Minima and maxima must be achieved as intended. 
+Designs should be adjusted until predictions are within allowance for averages and meet minima and maxima. For additional information, see 4.12.4.1 Recommended Illumi-
+nances at Design Time, 4.12.5 Illuminance Ratios, 9.15.1.1 Average Illuminance, and 
+10.8 Assessing Computed Results. 
+28.3.4 Uniformity Targets 
+
+Illuminance uniformity targets work in conjunction with luminance uniformities and surface reflectances all of which must be addressed as part of the design to avoid visual dis-comfort, glare, and strain. Uniformity ratios are targets that define the widest recommended ranges. In many situations, uniformity ratio criteria are those between average values of an array of points and the minimum value in the same array of points. Uniformity targets ap-ply to both horizontal and vertical illuminances over the area of coverage. Where horizontal uniformity criterion is different from vertical uniformity criterion, two ratios are reported with the first value for horizontal illuminance (Eh). In some situations, notably those with regard to exterior illuminances, two uniformity values are cited. The first value addresses the primary cited application or task. The parenthetical value references the parenthetical ap-plication or task, such as a curfew situation associated with nighttime outdoor lighting. 
+Generally the more important speed and accuracy and the more demanding the visual task, the tighter the ratio. 
+28.3.4.1 Maximum-to-average 
+
+This is the recommended ratio of maximum illuminance to the average illuminance found on the area of coverage of interest. This ratio is typically ascribed to situations sensitive to even a relatively small degree of overlighting. 
+28.3.4.2 Average-to-minimum 
+
+This is the recommended ratio of average illuminance to the minimum illuminance found on the area of coverage of interest. This ratio is typically ascribed to situations where il-luminance too far below average conditions is noticeable and detrimental to task perfor-mance or inconsistent with normal expectations. 
+28.3.4.3 Maximum-to-minimum 
+
+This is the recommended ratio of maximum illuminance to the minimum illuminance found on the area of coverage of interest. This ratio is typically ascribed to situations where too much variation in illuminance is considered undesirable and untenable from a performance or safety perspective. 
+28.3.5 Daylighting Advancement 
+IES 10th Edition 
+
+Generally, design strategies should embrace any combination of daylighting and electric 
+-
+
+
+
+Figure 28.12 | Motel Lobby 
+Well-spaced downlights exhibiting a flood distribution at the registration desk can provide effective illuminance on the wall for accent and on the registration counter for task. Downlighting concentrated at seating and feature areas provides ambient light, but with some degree of accent highlight that would be lost with a general pattern of downlighting. Decorative pendant and sconces themselves provide some accent and help with human scale and visual interest and soften the harshness of downlighting alone. . Image .Jonathan Ross/Space Images/Corbis 
+The Lighting Handbook | 28.31
+IESH/10e Economics Resources 
+> 15.3.3 Budgets 
+
+. for more on budgets and value engineering > 18 | ECONOMICS . for more on estimating costs . for more on life cycle costs . for more on paybacks and rates of return date, it may be determined that very careful and coordinated design will offer great sustain-ability opportunities along with positive influences associated with daylight and views. 
+28.3.6 Veiling Reflections 
+Tasks with specular components, such as some video game consoles and display moni-tors, which may be in different planes, are prone to veiling reflections. The likelihood of particular applications/tasks predisposed to veiling reflections is indicated by a ¡°reflected light¡± icon: black and white signals high likelihood; gray and white signals moderate likelihood; pale gray and white signals some likelihood; and all-white signals little-to-no likelihood. Veiling reflections are minimized by controlling the overall amount and direction of daylight with respect to the task locations and orientations. Alternatively, tasks sensitive to veiling reflections can be screened or isolated. Employing indirect soft, diffuse electric lighting or direct electric lighting with multiple low-output luminaires, or positioning tasks and luminaires and luminance patterns to avoid harsh reflections from tasks can be effective. 
+28.3.7 Defining Areas of Coverage 
+In addition to establishing planes of task orientation, the areas of coverage to which targets apply must be determined. Typical areas of task illuminance coverage are identified here, but these may not be appropriate to specific project situations. One area of coverage is ¡°task proper or task area.¡± Here, the illuminance criteria are applied to the task itself or to a relatively small area to which the task is confined. See 12.5.5.1 Tasks and Applications and Figure 12.21 | Task Coverage Example. In some situations, such as accenting, the ¡°task¡± area may consist of the entire wall when ¡°feature wall¡± or ¡°perimeter¡± accenting is desired. It is important to remember that illuminance is additive, that is, task illuminance can be achieved with some combination of ambient lighting, task lighting, and/or accent lighting, providing that the total illuminance on the task proper or task area meets the illuminance criteria outlined in Table 28.2. 
+Another area of coverage is ¡°room or designated area.¡± In this situation, illuminance criteria are applied to the room or an area of fairly substantive size representing the zone in which the applications/tasks are expected to occur. The designated area is typically es-tablished by the furniture layout, for example, or might be established by the design team or client. The area-of-coverage citations in Table 28.2 are based on traditional notions. So, for example, it may be determined that a ¡°task proper or task area¡± coverage would result in some amount of LPD reduction when compared to ¡°room or designated area¡± cover-age. If the task can be confined to one area rather then multiple areas, if the room or area in which the task is located is itself relatively small, such as a single-occupant office, and if the other design goals and criteria outlined in 12 | COMPONENTS OF LIGHTING DESIGN are addressed, then this strategy of redefining area of coverage has merit. 
+An assessment and determination must be made on which area of coverage best satisfies the lighting goals on a particular project. 
+28.4 Designing 
+Information provided here is specific to hospitality and entertainment facilities and should be used as part of the design and documentation processes outlined in Chapters 12, 15, and 
+20. For outdoor applications, lamps and ballasts, transformers, and drivers must be selected for ambient temperature conditions, some of which are extremely hot and others extremely cold. See 25 | LIGHTING FOR EMERGENCY, SAFETY, AND SECURITY for addi-tional information on respective aspects. Addressing all code requirements is a must. Energy efficient and sustainable practices are an integral part of all IES recommendations. Key design tenets include, but are not limited to: 
+
+
+28.32 | The Lighting Handbook IES 10th Edition 
+
+
+
+. 
+designing for the satisfaction of the observers intended to use the project 
+
+. 
+using baseline reflectances of 90-60-20 (percentage light reflectance values [LRVs] of ceilings, walls, and floors respectively) in interior production and work-oriented spaces 
+
+. 
+using daylighting that meets luminance and illuminance criteria 
+
+. 
+using highest-efficacy lamps that meet color, optical and electrical control, and output criteria 
+
+. 
+using highest-efficiency luminaires that meet aesthetic and luminance criteria 
+
+. 
+using accenting to provide luminance balancing or improve brightness percep-tions where necessary 
+
+. 
+using controls liberally, preferably automated varieties such as presets, occupancy and vacancy sensors, astronomical time clocks, and photocells 
+
+. 
+establishing IES-recommended illuminance criteria to meet programmed tasks 
+
+. 
+establishing layouts that just meet IES-recommended illuminance criteria 
+
+. 
+addressing outdoor environmental needs 
+
+. 
+using calculations, photometrically-realistic renderings, and operational samples and mockups to prove concepts 
+
+. 
+identifying and designing to code-specific requirements, if any, for ambient, task, and accent lighting 
+
+. 
+documenting all code-, energy-, sustainability-, and IES-criteria compliance 
+
+. 
+documenting criteria and design deviations and rationale and subsequent dispo-sition by team, client, or AHJ 
+
+. 
+documenting clearly the layouts, controls, and luminaire and lamp selections 
+
+
+Designing for the satisfaction of the observers is the paramount design tenet and must be kept in perspective during all aspects of design. If the observers¡¯ expectations are not fulfilled, then how much energy could be saved is moot, as is how many fewer earth resources were spared, as is how much the whole affair cost or how much value engineer-ing saved or the photogenic qualities of the project. See sidebar references for additional guidance on the key tenets. The design effort must be undertaken with coordinated and realistic expectations by all involved on initial and life cycle costs. Budgeting should in-clude designer input and dialogue with the team and client at project commencement and design milestones. In other words, and paraphrasing Thomas Edison, genius is, indeed, just 1% inspiration and 99% perspiration. 
+28.5 References 
+
+[1] [DOE] US Department of Energy, Energy Information Administration. 2008. Table E5A. In: Electricity Consumption (kWh) by End Use for All Buildings, 2003 [Internet]. DOE. [cited December 2008]. Available from: http://www.eia.doe.gov/emeu/cbecs/ cbecs2003/detailed_tables_2003/detailed_tables_2003.html#enduse03. 
+[2] Mark S. Rea, ed. 2000. The IESNA lighting handbook: Reference and application. 9th Edition. New York: IESNA. Ch 13, 15. 
+[3] [IESNA] Illuminating Engineering Society.  2009. Stage Lighting - A guide to the planning of theatres and auditoriums DG-20-09. New York: IESNA. 32 p. 
+[4] Steffy G. 2008. Architectural lighting design. 3rd  edition. Hoboken: John Wiley & Sons. p 161.  
+IESH/10e Energy Efficiency Resources 
+
+> 17.2 New Construction . for more on designing for daylighting . for more on electric lighting equipment . for more on lighting controls > 17.4 Lighting Codes, Regulations and Stan-
+dards . for more on application standards . for more on equipment regulations IESH/10eLightingExteriorsResources 
+
+> 12.5.5.6 Nighttime Outdoor Illuminances . for more on lamp efficacies under mesopic adaptation > 26 | LIGHTING FOR EXTERIORS 
+. for more on criteria 
+IESH/10e Sustainability Resources 
+
+> 13.11 Sustainability . for more on lamps > 19 | SUSTAINABILITY . for more on controls . for more on earth resources . for more on energy . for more on life cycle analyses . for more on lighting design . for more on recycling 
+The Lighting Handbook | 28.33
+
+
+
+
+
